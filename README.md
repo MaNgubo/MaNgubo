@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaNgubo
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me : katlegongubo0@gmail
+- 📫 How to reach me : katlegongubo0@gmail.com
 - 😄 Pronouns:she/her
 
 
