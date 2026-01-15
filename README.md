@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaNgubo
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me : katlegongubo0@gmail.com
 - 😄 Pronouns:she/her
 
